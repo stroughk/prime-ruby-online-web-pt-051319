@@ -6,3 +6,6 @@ def prime?(num)
    false
    end 
 end 
+
+
+prime?(13)
